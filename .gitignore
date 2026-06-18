@@ -1,0 +1,26 @@
+# Ignore system files
+*.log
+*.tmp
+*.bak
+
+# Ignore environment/config files
+.env
+*.ini
+*.json
+*.txt
+
+# Ignore database dumps
+*.sql
+DATABASE FILE/
+
+# Ignore vendor libraries (can be reinstalled with composer)
+vendor/
+
+# Ignore uploads
+uploads/
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+__test_apache.txt
+
